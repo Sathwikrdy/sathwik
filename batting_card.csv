@@ -1,0 +1,700 @@
+Match_Name, Venue,City,Country,Batting_team,Name ,Full_Name,Runs,Balls_faced,Minutes,Fours,Sixes,Strike_rate
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Mohammad Rizwan,Mohammad Rizwan,15,14,24,0,1,107.14
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Babar Azam,Babar Azam,32,28,58,2,0,114.28
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Mohammad Haris,Mohammad Haris,8,12,15,1,0,66.66
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Shan Masood,Shan Masood,38,28,46,2,1,135.71
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Iftikhar Ahmed,Iftikhar Ahmed,0,6,8,0,0,0
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Shadab Khan,Shadab Khan,20,14,26,2,0,142.85
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Mohammad Nawaz(3),Mohammad Nawaz,5,7,11,0,0,71.42
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Mohammad Wasim(1),Mohammad Wasim,4,8,12,0,0,50
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Shaheen Shah Afridi,Shaheen Shah Afridi,5,3,8,1,0,166.66
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Haris Rauf,Haris Rauf,1,1,3,0,0,100
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,ENG,JC Buttler,Jos Buttler,26,17,33,3,1,152.94
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,ENG,AD Hales,Alex Hales,1,2,6,0,0,50
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,ENG,PD Salt,Phil Salt,10,9,16,2,0,111.11
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,ENG,BA Stokes,Ben Stokes,52,49,81,5,1,106.12
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,ENG,HC Brook,Harry Brook,20,23,36,1,0,86.95
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,ENG,MM Ali,Moeen Ali,19,12,30,3,0,158.33
+ENG v PAK,Melbourne Cricket Ground,Melbourne,Australia,ENG,LS Livingstone,Liam Livingstone,1,2,3,0,0,50
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,KL Rahul,KL Rahul,5,5,8,1,0,100
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,RG Sharma,Rohit Sharma,27,28,37,4,0,96.42
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,V Kohli,Virat Kohli,50,40,75,4,1,125
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,SA Yadav,Suryakumar Yadav,14,10,14,1,1,140
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,HH Pandya,Hardik Pandya,63,33,47,4,5,190.9
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,RR Pant,Rishabh Pant,6,4,13,1,0,150
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,R Ashwin,Ravichandran Ashwin,0,0,4,0,0,-
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,ENG,JC Buttler,Jos Buttler,80,49,74,9,3,163.26
+ENG v INDIA,Adelaide Oval,Adelaide,Australia,ENG,AD Hales,Alex Hales,86,47,74,4,7,182.97
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,NZ,FH Allen,Finn Allen,4,3,6,1,0,133.33
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,NZ,DP Conway,Devon Conway,21,20,35,3,0,105
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,NZ,KS Williamson,Kane Williamson,46,42,81,1,1,109.52
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,NZ,GD Phillips,Glenn Phillips,6,8,9,1,0,75
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,NZ,DJ Mitchell,Daryl Mitchell,53,35,60,3,1,151.42
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,NZ,JDS Neesham,James Neesham,16,12,19,1,0,133.33
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,PAK,Mohammad Rizwan,Mohammad Rizwan,57,43,77,5,0,132.55
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,PAK,Babar Azam,Babar Azam,53,42,56,7,0,126.19
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,PAK,Mohammad Haris,Mohammad Haris,30,26,32,2,1,115.38
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,PAK,Shan Masood,Shan Masood,3,4,13,0,0,75
+NZ v PAK,Sydney Cricket Ground,Sydney,Australia,PAK,Iftikhar Ahmed,Iftikhar Ahmed,0,0,3,0,0,-
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,INDIA,KL Rahul,KL Rahul,51,35,59,3,3,145.71
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,INDIA,RG Sharma,Rohit Sharma,15,13,20,2,0,115.38
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,INDIA,V Kohli,Virat Kohli,26,25,36,2,0,104
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,INDIA,SA Yadav,Suryakumar Yadav,61,25,44,6,4,244
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,INDIA,RR Pant,Rishabh Pant,3,5,7,0,0,60
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,INDIA,HH Pandya,Hardik Pandya,18,18,29,2,0,100
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,INDIA,AR Patel,Axar Patel,0,0,6,0,0,-
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,W Madhevere,Wessly Madhevere,0,1,1,0,0,0
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,CR Ervine,Craig Ervine,13,15,37,2,0,86.66
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,RW Chakabva,Regis Chakabva,0,6,9,0,0,0
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,SC Williams,Sean Williams,11,18,22,0,1,61.11
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,Sikandar Raza,Sikandar Raza,34,24,53,3,0,141.66
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,T Munyonga,Tony Munyonga,5,4,6,1,0,125
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,RP Burl,Ryan Burl,35,22,27,5,1,159.09
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,WP Masakadza,Wellington Masakadza,1,7,8,0,0,14.28
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,R Ngarava,Richard Ngarava,1,2,4,0,0,50
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,TL Chatara,Tendai Chatara,4,4,11,1,0,100
+INDIA v ZIM,Melbourne Cricket Ground,Melbourne,Australia,ZIM,B Muzarabani,Blessing Muzarabani,0,2,5,0,0,0
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Najmul Hossain Shanto,Najmul Hossain Shanto,54,48,66,7,0,112.5
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Liton Das,Litton Das,10,8,15,0,1,125
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Soumya Sarkar,Soumya Sarkar,20,17,38,1,1,117.64
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Shakib Al Hasan,Shakib Al Hasan,0,1,4,0,0,0
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Afif Hossain,Afif Hossain,24,20,47,3,0,120
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Mosaddek Hossain,Mosaddek Hossain,5,11,17,0,0,45.45
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Nurul Hasan,Nurul Hasan,0,3,4,0,0,0
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Taskin Ahmed,Taskin Ahmed,1,5,8,0,0,20
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Nasum Ahmed,Nasum Ahmed,7,6,9,1,0,116.66
+BAN v PAK,Adelaide Oval,Adelaide,Australia,BAN,Mustafizur Rahman,Mustafizur Rahman,0,1,1,0,0,0
+BAN v PAK,Adelaide Oval,Adelaide,Australia,PAK,Mohammad Rizwan,Mohammad Rizwan,32,32,51,2,1,100
+BAN v PAK,Adelaide Oval,Adelaide,Australia,PAK,Babar Azam,Babar Azam,25,33,46,2,0,75.75
+BAN v PAK,Adelaide Oval,Adelaide,Australia,PAK,Mohammad Nawaz(3),Mohammad Nawaz,4,11,27,0,0,36.36
+BAN v PAK,Adelaide Oval,Adelaide,Australia,PAK,Mohammad Haris,Mohammad Haris,31,18,31,1,2,172.22
+BAN v PAK,Adelaide Oval,Adelaide,Australia,PAK,Shan Masood,Shan Masood,24,14,20,2,0,171.42
+BAN v PAK,Adelaide Oval,Adelaide,Australia,PAK,Iftikhar Ahmed,Iftikhar Ahmed,1,3,8,0,0,33.33
+BAN v PAK,Adelaide Oval,Adelaide,Australia,PAK,Shadab Khan,Shadab Khan,0,0,2,0,0,-
+NED v SA,Adelaide Oval,Adelaide,Australia,NED,SJ Myburgh,Stephan Myburgh,37,30,41,7,0,123.33
+NED v SA,Adelaide Oval,Adelaide,Australia,NED,MP O'Dowd,Max O'Dowd,29,31,61,1,1,93.54
+NED v SA,Adelaide Oval,Adelaide,Australia,NED,TLW Cooper,Tom Cooper,35,19,30,2,2,184.21
+NED v SA,Adelaide Oval,Adelaide,Australia,NED,CN Ackermann,Colin Ackermann,41,26,31,3,2,157.69
+NED v SA,Adelaide Oval,Adelaide,Australia,NED,BFW de Leede,Bas de Leede,1,7,11,0,0,14.28
+NED v SA,Adelaide Oval,Adelaide,Australia,NED,SA Edwards,Scott Edwards,12,7,11,2,0,171.42
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,Q de Kock,Quinton de Kock,13,13,12,1,1,100
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,T Bavuma,Temba Bavuma,20,20,26,2,0,100
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,RR Rossouw,Rilee Rossouw,25,19,29,2,0,131.57
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,AK Markram,Aiden Markram,17,13,30,2,0,130.76
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,DA Miller,David Miller,17,17,28,1,0,100
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,H Klaasen,Heinrich Klaasen,21,18,27,0,1,116.66
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,WD Parnell,Wayne Parnell,0,2,3,0,0,0
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,KA Maharaj,Keshav Maharaj,13,12,20,0,1,108.33
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,K Rabada,Kagiso Rabada,9,8,13,0,0,112.5
+NED v SA,Adelaide Oval,Adelaide,Australia,SA,A Nortje,Anrich Nortje,4,1,2,1,0,400
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,P Nissanka,Pathum Nissanka,67,45,70,2,5,148.88
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,BKG Mendis,Kusal Mendis,18,14,21,1,1,128.57
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,DM de Silva,Dhananjaya de Silva,9,11,17,0,0,81.81
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,KIC Asalanka,Charith Asalanka,8,9,15,0,0,88.88
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,PBB Rajapaksa,Bhanuka Rajapaksa,22,22,41,3,0,100
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,MD Shanaka,Dasun Shanaka,3,8,12,0,0,37.5
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,PWH de Silva,Wanindu Hasaranga de Silva,9,9,13,1,0,100
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,C Karunaratne,Chamika Karunaratne,0,2,3,0,0,0
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,SL,M Theekshana,Maheesh Theekshana,0,0,2,0,0,-
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,ENG,JC Buttler,Jos Buttler,28,23,35,2,1,121.73
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,ENG,AD Hales,Alex Hales,47,30,42,7,1,156.66
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,ENG,BA Stokes,Ben Stokes,42,36,59,2,0,116.66
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,ENG,HC Brook,Harry Brook,4,5,9,0,0,80
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,ENG,LS Livingstone,Liam Livingstone,4,6,10,0,0,66.66
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,ENG,MM Ali,Moeen Ali,1,5,8,0,0,20
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,ENG,SM Curran,Sam Curran,6,11,16,0,0,54.54
+ENG v SL,Sydney Cricket Ground,Sydney,Australia,ENG,CR Woakes,Chris Woakes,5,3,11,1,0,166.66
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,DA Warner,David Warner,25,18,28,5,0,138.88
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,C Green,Cameron Green,3,2,12,0,0,150
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,MR Marsh,Mitchell Marsh,45,30,42,3,2,150
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,SPD Smith,Steven Smith,4,4,6,1,0,100
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,MP Stoinis,Marcus Stoinis,25,21,41,0,2,119.04
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,GJ Maxwell,Glenn Maxwell,54,32,46,6,2,168.75
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,MS Wade,Matthew Wade,6,8,14,1,0,75
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,PJ Cummins,Pat Cummins,0,2,4,0,0,0
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,KW Richardson,Kane Richardson,1,1,6,0,0,100
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AUS,A Zampa,Adam Zampa,1,1,5,0,0,100
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Rahmanullah Gurbaz,Rahmanullah Gurbaz,30,17,31,2,2,176.47
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Usman Ghani,Usman Ghani,2,7,16,0,0,28.57
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Ibrahim Zadran,Ibrahim Zadran,26,33,55,2,0,78.78
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Gulbadin Naib,Gulbadin Naib,39,23,38,3,2,169.56
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Mohammad Nabi,Mohammad Nabi,1,2,10,0,0,50
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Najibullah Zadran,Najibullah Zadran,0,2,3,0,0,0
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Darwish Rasooli,Darwish Rasooli,15,13,28,1,0,115.38
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Rashid Khan,Rashid Khan,48,23,27,3,4,208.69
+AUS v AFG,Adelaide Oval,Adelaide,Australia,AFG,Naveen-ul-Haq,Naveen-ul-Haq,0,0,4,0,0,-
+IRE v NZ,Adelaide Oval,Adelaide,Australia,NZ,FH Allen,Finn Allen,32,18,30,5,1,177.77
+IRE v NZ,Adelaide Oval,Adelaide,Australia,NZ,DP Conway,Devon Conway,28,33,55,2,0,84.84
+IRE v NZ,Adelaide Oval,Adelaide,Australia,NZ,KS Williamson,Kane Williamson,61,35,59,5,3,174.28
+IRE v NZ,Adelaide Oval,Adelaide,Australia,NZ,GD Phillips,Glenn Phillips,17,9,9,2,1,188.88
+IRE v NZ,Adelaide Oval,Adelaide,Australia,NZ,DJ Mitchell,Daryl Mitchell,31,21,35,2,0,147.61
+IRE v NZ,Adelaide Oval,Adelaide,Australia,NZ,JDS Neesham,James Neesham,0,1,3,0,0,0
+IRE v NZ,Adelaide Oval,Adelaide,Australia,NZ,MJ Santner,Mitchell Santner,0,1,2,0,0,0
+IRE v NZ,Adelaide Oval,Adelaide,Australia,NZ,TG Southee,Tim Southee,1,2,7,0,0,50
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,PR Stirling,Paul Stirling,37,27,39,3,1,137.03
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,A Balbirnie,Andy Balbirnie,30,25,36,0,3,120
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,LJ Tucker,Lorcan Tucker,13,14,30,0,0,92.85
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,HT Tector,Harry Tector,2,7,4,0,0,28.57
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,GJ Delany,Gareth Delany,10,8,12,2,0,125
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,GH Dockrell,George Dockrell,23,15,24,3,0,153.33
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,C Campher,Curtis Campher,7,7,10,1,0,100
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,F Hand,Fionn Hand,5,3,7,1,0,166.66
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,MR Adair,Mark Adair,4,5,9,0,0,80
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,BJ McCarthy,Barry McCarthy,6,5,10,0,0,120
+IRE v NZ,Adelaide Oval,Adelaide,Australia,IRE,JB Little,Josh Little,8,4,3,0,1,200
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Mohammad Rizwan,Mohammad Rizwan,4,4,4,1,0,100
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Babar Azam,Babar Azam,6,15,29,0,0,40
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Mohammad Haris,Mohammad Haris,28,11,19,2,3,254.54
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Shan Masood,Shan Masood,2,6,11,0,0,33.33
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Iftikhar Ahmed,Iftikhar Ahmed,51,35,73,3,2,145.71
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Mohammad Nawaz(3),Mohammad Nawaz,28,22,32,4,1,127.27
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Shadab Khan,Shadab Khan,52,22,31,3,4,236.36
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Mohammad Wasim(1),Mohammad Wasim,0,1,1,0,0,0
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Naseem Shah,Naseem Shah,5,3,3,0,0,166.66
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,PAK,Haris Rauf,Haris Rauf,3,2,2,0,0,150
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,T Bavuma,Temba Bavuma,36,19,39,4,1,189.47
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,Q de Kock,Quinton de Kock,0,5,6,0,0,0
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,RR Rossouw,Rilee Rossouw,7,6,10,0,1,116.66
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,AK Markram,Aiden Markram,20,14,28,4,0,142.85
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,H Klaasen,Heinrich Klaasen,15,9,18,3,0,166.66
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,T Stubbs,Tristan Stubbs,18,18,28,0,1,100
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,WD Parnell,Wayne Parnell,3,4,9,0,0,75
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,K Rabada,Kagiso Rabada,1,2,11,0,0,50
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,A Nortje,Anrich Nortje,1,5,8,0,0,20
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,L Ngidi,Lungi Ngidi,4,1,5,1,0,400
+PAK v SA,Sydney Cricket Ground,Sydney,Australia,SA,T Shamsi,Tabraiz Shamsi,1,1,3,0,0,100
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,KL Rahul,KL Rahul,50,32,49,3,4,156.25
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,RG Sharma,Rohit Sharma,2,8,18,0,0,25
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,V Kohli,Virat Kohli,64,44,84,8,1,145.45
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,SA Yadav,Suryakumar Yadav,30,16,18,4,0,187.5
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,HH Pandya,Hardik Pandya,5,6,8,0,0,83.33
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,KD Karthik,Dinesh Karthik,7,5,12,1,0,140
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,AR Patel,Axar Patel,7,6,6,1,0,116.66
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,INDIA,R Ashwin,Ravichandran Ashwin,13,6,9,1,1,216.66
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,BAN,Najmul Hossain Shanto,Najmul Hossain Shanto,21,25,50,1,1,84
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,BAN,Liton Das,Litton Das,60,27,40,7,3,222.22
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,BAN,Shakib Al Hasan,Shakib Al Hasan,13,12,24,2,0,108.33
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,BAN,Afif Hossain,Afif Hossain,3,5,12,0,0,60
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,BAN,Yasir Ali,Yasir Ali,1,3,8,0,0,33.33
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,BAN,Nurul Hasan,Nurul Hasan,25,14,29,2,1,178.57
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,BAN,Mosaddek Hossain,Mosaddek Hossain,6,3,4,0,1,200
+BAN v INDIA,Adelaide Oval,Adelaide,Australia,BAN,Taskin Ahmed,Taskin Ahmed,12,7,22,1,1,171.42
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,W Madhevere,Wessly Madhevere,1,5,9,0,0,20
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,CR Ervine,Craig Ervine,3,12,18,0,0,25
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,RW Chakabva,Regis Chakabva,5,16,18,1,0,31.25
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,SC Williams,Sean Williams,28,23,39,3,0,121.73
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,Sikandar Raza,Sikandar Raza,40,24,46,3,3,166.66
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,M Shumba,Milton Shumba,2,3,6,0,0,66.66
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,RP Burl,Ryan Burl,2,7,19,0,0,28.57
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,LM Jongwe,Luke Jongwe,6,8,12,0,0,75
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,R Ngarava,Richard Ngarava,9,7,12,0,1,128.57
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,TL Chatara,Tendai Chatara,6,7,15,0,0,85.71
+NED v ZIM,Adelaide Oval,Adelaide,Australia,ZIM,B Muzarabani,Blessing Muzarabani,1,4,9,0,0,25
+NED v ZIM,Adelaide Oval,Adelaide,Australia,NED,SJ Myburgh,Stephan Myburgh,8,7,15,0,1,114.28
+NED v ZIM,Adelaide Oval,Adelaide,Australia,NED,MP O'Dowd,Max O'Dowd,52,47,70,8,1,110.63
+NED v ZIM,Adelaide Oval,Adelaide,Australia,NED,TLW Cooper,Tom Cooper,32,29,42,2,1,110.34
+NED v ZIM,Adelaide Oval,Adelaide,Australia,NED,CN Ackermann,Colin Ackermann,1,5,6,0,0,20
+NED v ZIM,Adelaide Oval,Adelaide,Australia,NED,BFW de Leede,Bas de Leede,12,12,21,2,0,100
+NED v ZIM,Adelaide Oval,Adelaide,Australia,NED,SA Edwards,Scott Edwards,5,6,8,1,0,83.33
+NED v ZIM,Adelaide Oval,Adelaide,Australia,NED,RE van der Merwe,Roelof van der Merwe,0,3,6,0,0,0
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ENG,JC Buttler,Jos Buttler,73,47,82,7,2,155.31
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ENG,AD Hales,Alex Hales,52,40,46,7,1,130
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ENG,MM Ali,Moeen Ali,5,6,13,0,0,83.33
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ENG,LS Livingstone,Liam Livingstone,20,14,20,1,1,142.85
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ENG,HC Brook,Harry Brook,7,3,6,0,1,233.33
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ENG,BA Stokes,Ben Stokes,8,7,11,0,0,114.28
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ENG,SM Curran,Sam Curran,6,3,7,0,1,200
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ENG,DJ Malan,Dawid Malan,3,1,1,0,0,300
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,NZ,FH Allen,Finn Allen,16,11,25,0,1,145.45
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,NZ,DP Conway,Devon Conway,3,9,12,0,0,33.33
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,NZ,KS Williamson,Kane Williamson,40,40,57,3,0,100
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,NZ,GD Phillips,Glenn Phillips,62,36,64,4,3,172.22
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,NZ,JDS Neesham,James Neesham,6,3,7,1,0,200
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,NZ,DJ Mitchell,Daryl Mitchell,3,5,10,0,0,60
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,NZ,MJ Santner,Mitchell Santner,16,10,19,0,1,160
+ENG v NZ,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,NZ,IS Sodhi,Ish Sodhi,6,6,4,0,0,100
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Rahmanullah Gurbaz,Rahmanullah Gurbaz,28,24,33,2,2,116.66
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Usman Ghani,Usman Ghani,27,27,54,2,1,100
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Ibrahim Zadran,Ibrahim Zadran,22,18,35,1,1,122.22
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Najibullah Zadran,Najibullah Zadran,18,16,29,1,0,112.5
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Gulbadin Naib,Gulbadin Naib,12,14,25,0,0,85.71
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Mohammad Nabi,Mohammad Nabi,13,8,15,1,0,162.5
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Rashid Khan,Rashid Khan,9,8,10,1,0,112.5
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Azmatullah Omarzai,Azmatullah Omarzai,3,4,3,0,0,75
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AFG,Mujeeb Ur Rahman,Mujeeb Ur Rahman,1,2,1,0,0,50
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,SL,P Nissanka,Pathum Nissanka,10,10,10,2,0,100
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,SL,BKG Mendis,Kusal Mendis,25,27,33,2,1,92.59
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,SL,DM de Silva,Dhananjaya de Silva,66,42,78,6,2,157.14
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,SL,KIC Asalanka,Charith Asalanka,19,18,27,1,0,105.55
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,SL,PBB Rajapaksa,Bhanuka Rajapaksa,18,14,24,3,0,128.57
+AFG v SL,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,SL,MD Shanaka,Dasun Shanaka,0,0,4,0,0,-
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AUS,DA Warner,David Warner,3,7,13,0,0,42.85
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AUS,AJ Finch,Aaron Finch,63,44,87,5,3,143.18
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AUS,MR Marsh,Mitchell Marsh,28,22,28,2,2,127.27
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AUS,GJ Maxwell,Glenn Maxwell,13,9,18,0,1,144.44
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AUS,MP Stoinis,Marcus Stoinis,35,25,41,3,1,140
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AUS,TH David,Tim David,15,10,15,2,0,150
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,AUS,MS Wade,Matthew Wade,7,3,7,1,0,233.33
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,PR Stirling,Paul Stirling,11,7,11,1,1,157.14
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,A Balbirnie,Andy Balbirnie,6,7,11,0,1,85.71
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,LJ Tucker,Lorcan Tucker,71,48,81,9,1,147.91
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,HT Tector,Harry Tector,6,4,3,1,0,150
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,C Campher,Curtis Campher,0,1,5,0,0,0
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,GH Dockrell,George Dockrell,0,4,4,0,0,0
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,GJ Delany,Gareth Delany,14,10,27,2,0,140
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,MR Adair,Mark Adair,11,11,13,1,0,100
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,F Hand,Fionn Hand,6,6,10,1,0,100
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,BJ McCarthy,Barry McCarthy,3,7,16,0,0,42.85
+AUS v IRE,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,IRE,JB Little,Josh Little,1,5,6,0,0,20
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,KL Rahul,KL Rahul,9,14,25,0,1,64.28
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,RG Sharma,Rohit Sharma,15,14,22,1,1,107.14
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,V Kohli,Virat Kohli,12,11,13,2,0,109.09
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,SA Yadav,Suryakumar Yadav,68,40,68,6,3,170
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,DJ Hooda,Deepak Hooda,0,3,4,0,0,0
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,HH Pandya,Hardik Pandya,2,3,6,0,0,66.66
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,KD Karthik,Dinesh Karthik,6,15,33,0,0,40
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,R Ashwin,Ravichandran Ashwin,7,11,15,0,0,63.63
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,B Kumar,Bhuvneshwar Kumar,4,6,9,0,0,66.66
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,Mohammed Shami,Mohammed Shami,0,2,5,0,0,0
+INDIA v SA,Perth Stadium,Perth,Australia,INDIA,Arshdeep Singh,Arshdeep Singh,2,1,2,0,0,200
+INDIA v SA,Perth Stadium,Perth,Australia,SA,Q de Kock,Quinton de Kock,1,3,7,0,0,33.33
+INDIA v SA,Perth Stadium,Perth,Australia,SA,T Bavuma,Temba Bavuma,10,15,30,0,1,66.66
+INDIA v SA,Perth Stadium,Perth,Australia,SA,RR Rossouw,Rilee Rossouw,0,2,4,0,0,0
+INDIA v SA,Perth Stadium,Perth,Australia,SA,AK Markram,Aiden Markram,52,41,72,6,1,126.82
+INDIA v SA,Perth Stadium,Perth,Australia,SA,DA Miller,David Miller,59,46,78,4,3,128.26
+INDIA v SA,Perth Stadium,Perth,Australia,SA,T Stubbs,Tristan Stubbs,6,6,15,1,0,100
+INDIA v SA,Perth Stadium,Perth,Australia,SA,WD Parnell,Wayne Parnell,2,5,11,0,0,40
+NED v PAK,Perth Stadium,Perth,Australia,NED,SJ Myburgh,Stephan Myburgh,6,11,13,1,0,54.54
+NED v PAK,Perth Stadium,Perth,Australia,NED,MP O'Dowd,Max O'Dowd,8,13,41,0,0,61.53
+NED v PAK,Perth Stadium,Perth,Australia,NED,BFW de Leede,Bas de Leede,6,16,15,1,0,37.5
+NED v PAK,Perth Stadium,Perth,Australia,NED,TLW Cooper,Tom Cooper,1,2,4,0,0,50
+NED v PAK,Perth Stadium,Perth,Australia,NED,CN Ackermann,Colin Ackermann,27,27,40,2,0,100
+NED v PAK,Perth Stadium,Perth,Australia,NED,SA Edwards,Scott Edwards,15,20,38,1,0,75
+NED v PAK,Perth Stadium,Perth,Australia,NED,RE van der Merwe,Roelof van der Merwe,5,6,12,0,0,83.33
+NED v PAK,Perth Stadium,Perth,Australia,NED,TJG Pringle,Tim Pringle,5,8,15,0,0,62.5
+NED v PAK,Perth Stadium,Perth,Australia,NED,LV van Beek,Logan van Beek,6,9,18,0,0,66.66
+NED v PAK,Perth Stadium,Perth,Australia,NED,FJ Klaassen,Fred Klaassen,0,1,1,0,0,0
+NED v PAK,Perth Stadium,Perth,Australia,NED,PA van Meekeren,Paul van Meekeren,7,7,8,0,0,100
+NED v PAK,Perth Stadium,Perth,Australia,PAK,Mohammad Rizwan,Mohammad Rizwan,49,39,66,5,0,125.64
+NED v PAK,Perth Stadium,Perth,Australia,PAK,Babar Azam,Babar Azam,4,5,10,1,0,80
+NED v PAK,Perth Stadium,Perth,Australia,PAK,Fakhar Zaman,Fakhar Zaman,20,16,27,3,0,125
+NED v PAK,Perth Stadium,Perth,Australia,PAK,Shan Masood,Shan Masood,12,16,35,0,0,75
+NED v PAK,Perth Stadium,Perth,Australia,PAK,Iftikhar Ahmed,Iftikhar Ahmed,6,5,10,0,0,120
+NED v PAK,Perth Stadium,Perth,Australia,PAK,Shadab Khan,Shadab Khan,4,2,2,1,0,200
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,BAN,Najmul Hossain Shanto,Najmul Hossain Shanto,71,55,77,7,1,129.09
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,BAN,Soumya Sarkar,Soumya Sarkar,0,2,9,0,0,0
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,BAN,Liton Das,Litton Das,14,12,22,3,0,116.66
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,BAN,Shakib Al Hasan,Shakib Al Hasan,23,20,32,1,0,115
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,BAN,Afif Hossain,Afif Hossain,29,19,40,1,1,152.63
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,BAN,Mosaddek Hossain,Mosaddek Hossain,7,10,18,0,0,70
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,BAN,Nurul Hasan,Nurul Hasan,1,1,5,0,0,100
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,BAN,Yasir Ali,Yasir Ali,1,1,3,0,0,100
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,W Madhevere,Wessly Madhevere,4,3,1,1,0,133.33
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,CR Ervine,Craig Ervine,8,7,16,2,0,114.28
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,M Shumba,Milton Shumba,8,15,24,1,0,53.33
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,SC Williams,Sean Williams,64,42,75,8,0,152.38
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,Sikandar Raza,Sikandar Raza,0,3,4,0,0,0
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,RW Chakabva,Regis Chakabva,15,19,24,0,0,78.94
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,RP Burl,Ryan Burl,27,25,50,2,1,108
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,B Evans,Brad Evans,2,2,5,0,0,100
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,R Ngarava,Richard Ngarava,6,3,6,0,1,200
+BAN v ZIM,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,ZIM,B Muzarabani,Blessing Muzarabani,0,2,6,0,0,0
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,FH Allen,Finn Allen,1,3,3,0,0,33.33
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,DP Conway,Devon Conway,1,4,14,0,0,25
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,KS Williamson,Kane Williamson,8,13,18,1,0,61.53
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,GD Phillips,Glenn Phillips,104,64,87,10,4,162.5
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,DJ Mitchell,Daryl Mitchell,22,24,52,0,0,91.66
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,JDS Neesham,James Neesham,5,8,15,0,0,62.5
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,MJ Santner,Mitchell Santner,11,5,17,0,1,220
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,IS Sodhi,Ish Sodhi,1,1,3,0,0,100
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,NZ,TG Southee,Tim Southee,4,1,1,1,0,400
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,P Nissanka,Pathum Nissanka,0,5,5,0,0,0
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,BKG Mendis,Kusal Mendis,4,3,9,1,0,133.33
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,DM de Silva,Dhananjaya de Silva,0,3,8,0,0,0
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,KIC Asalanka,Charith Asalanka,4,8,11,0,0,50
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,PBB Rajapaksa,Bhanuka Rajapaksa,34,22,38,3,2,154.54
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,C Karunaratne,Chamika Karunaratne,3,8,13,0,0,37.5
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,MD Shanaka,Dasun Shanaka,35,32,49,4,1,109.37
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,PWH de Silva,Wanindu Hasaranga de Silva,4,6,6,1,0,66.66
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,M Theekshana,Maheesh Theekshana,0,3,5,0,0,0
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,CAK Rajitha,Kasun Rajitha,8,21,30,0,0,38.09
+NZ v SL,Sydney Cricket Ground,Sydney,Australia,SL,CBRLS Kumara,Lahiru Kumara,4,5,10,1,0,80
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,W Madhevere,Wessly Madhevere,17,13,30,3,0,130.76
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,CR Ervine,Craig Ervine,19,19,26,2,0,100
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,M Shumba,Milton Shumba,8,10,22,1,0,80
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,SC Williams,Sean Williams,31,28,37,3,0,110.71
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,Sikandar Raza,Sikandar Raza,9,16,22,1,0,56.25
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,RW Chakabva,Regis Chakabva,0,1,2,0,0,0
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,RP Burl,Ryan Burl,10,15,30,0,0,66.66
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,LM Jongwe,Luke Jongwe,0,1,2,0,0,0
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,B Evans,Brad Evans,19,15,24,0,1,126.66
+PAK v ZIM,Perth Stadium,Perth,Australia,ZIM,R Ngarava,Richard Ngarava,3,2,3,0,0,150
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Mohammad Rizwan,Mohammad Rizwan,14,16,23,1,1,87.5
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Babar Azam,Babar Azam,4,9,17,1,0,44.44
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Shan Masood,Shan Masood,44,38,61,3,0,115.78
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Iftikhar Ahmed,Iftikhar Ahmed,5,10,16,1,0,50
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Shadab Khan,Shadab Khan,17,14,27,0,1,121.42
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Haider Ali,Haider Ali,0,1,3,0,0,0
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Mohammad Nawaz(3),Mohammad Nawaz,22,18,36,1,1,122.22
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Mohammad Wasim(1),Mohammad Wasim,12,13,29,2,0,92.3
+PAK v ZIM,Perth Stadium,Perth,Australia,PAK,Shaheen Shah Afridi,Shaheen Shah Afridi,1,1,3,0,0,100
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,INDIA,KL Rahul,KL Rahul,9,12,12,1,0,75
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,INDIA,RG Sharma,Rohit Sharma,53,39,53,4,3,135.89
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,INDIA,V Kohli,Virat Kohli,62,44,79,3,2,140.9
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,INDIA,SA Yadav,Suryakumar Yadav,51,25,38,7,1,204
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,Vikramjit Singh,Vikramjit Singh,1,9,13,0,0,11.11
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,MP O'Dowd,Max O'Dowd,16,10,22,3,0,160
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,BFW de Leede,Bas de Leede,16,23,27,0,0,69.56
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,CN Ackermann,Colin Ackermann,17,21,31,1,0,80.95
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,TLW Cooper,Tom Cooper,9,12,12,0,0,75
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,SA Edwards,Scott Edwards,5,8,21,0,0,62.5
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,TJG Pringle,Tim Pringle,20,15,14,1,1,133.33
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,LV van Beek,Logan van Beek,3,5,11,0,0,60
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,Shariz Ahmad,Shariz Ahmad,16,11,18,2,0,145.45
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,FJ Klaassen,Fred Klaassen,0,1,3,0,0,0
+INDIA v NED,Sydney Cricket Ground,Sydney,Australia,NED,PA van Meekeren,Paul van Meekeren,14,6,9,3,0,233.33
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,SA,T Bavuma,Temba Bavuma,2,6,6,0,0,33.33
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,SA,Q de Kock,Quinton de Kock,63,38,77,7,3,165.78
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,SA,RR Rossouw,Rilee Rossouw,109,56,90,7,8,194.64
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,SA,T Stubbs,Tristan Stubbs,7,7,9,1,0,100
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,SA,AK Markram,Aiden Markram,10,11,16,1,0,90.9
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,SA,DA Miller,David Miller,2,4,8,0,0,50
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,SA,WD Parnell,Wayne Parnell,0,2,2,0,0,0
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Najmul Hossain Shanto,Najmul Hossain Shanto,9,9,15,1,0,100
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Soumya Sarkar,Soumya Sarkar,15,6,11,0,2,250
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Liton Das,Litton Das,34,31,57,1,1,109.67
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Shakib Al Hasan,Shakib Al Hasan,1,4,11,0,0,25
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Afif Hossain,Afif Hossain,1,5,8,0,0,20
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Mehidy Hasan Miraz,Mehidy Hasan Miraz,11,13,17,0,0,84.61
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Mosaddek Hossain,Mosaddek Hossain,0,3,4,0,0,0
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Nurul Hasan,Nurul Hasan,2,6,7,0,0,33.33
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Taskin Ahmed,Taskin Ahmed,10,17,22,1,0,58.82
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Hasan Mahmud,Hasan Mahmud,0,2,7,0,0,0
+BAN v SA,Sydney Cricket Ground,Sydney,Australia,BAN,Mustafizur Rahman,Mustafizur Rahman,9,3,8,0,1,300
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,PR Stirling,Paul Stirling,14,8,16,1,1,175
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,A Balbirnie,Andy Balbirnie,62,47,74,5,2,131.91
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,LJ Tucker,Lorcan Tucker,34,27,42,3,1,125.92
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,HT Tector,Harry Tector,0,2,3,0,0,0
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,C Campher,Curtis Campher,18,11,22,3,0,163.63
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,GH Dockrell,George Dockrell,0,1,2,0,0,0
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,GJ Delany,Gareth Delany,12,10,22,1,0,120
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,MR Adair,Mark Adair,4,4,8,0,0,100
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,BJ McCarthy,Barry McCarthy,3,3,4,0,0,100
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,F Hand,Fionn Hand,1,2,4,0,0,50
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,IRE,JB Little,Josh Little,0,1,3,0,0,0
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,ENG,JC Buttler,Jos Buttler,0,2,3,0,0,0
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,ENG,AD Hales,Alex Hales,7,5,14,1,0,140
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,ENG,DJ Malan,Dawid Malan,35,37,66,2,0,94.59
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,ENG,BA Stokes,Ben Stokes,6,8,14,0,0,75
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,ENG,HC Brook,Harry Brook,18,21,30,1,0,85.71
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,ENG,MM Ali,Moeen Ali,24,12,18,3,1,200
+ENG v IRE,Melbourne Cricket Ground,Melbourne,Australia,ENG,LS Livingstone,Liam Livingstone,1,2,7,0,0,50
+AUS v SL,Perth Stadium,Perth,Australia,SL,P Nissanka,Pathum Nissanka,40,45,65,2,0,88.88
+AUS v SL,Perth Stadium,Perth,Australia,SL,BKG Mendis,Kusal Mendis,5,6,9,1,0,83.33
+AUS v SL,Perth Stadium,Perth,Australia,SL,DM de Silva,Dhananjaya de Silva,26,23,47,3,0,113.04
+AUS v SL,Perth Stadium,Perth,Australia,SL,KIC Asalanka,Charith Asalanka,38,25,45,3,2,152
+AUS v SL,Perth Stadium,Perth,Australia,SL,PBB Rajapaksa,Bhanuka Rajapaksa,7,5,9,1,0,140
+AUS v SL,Perth Stadium,Perth,Australia,SL,MD Shanaka,Dasun Shanaka,3,5,6,0,0,60
+AUS v SL,Perth Stadium,Perth,Australia,SL,PWH de Silva,Wanindu Hasaranga de Silva,1,4,8,0,0,25
+AUS v SL,Perth Stadium,Perth,Australia,SL,C Karunaratne,Chamika Karunaratne,14,7,16,2,0,200
+AUS v SL,Perth Stadium,Perth,Australia,AUS,DA Warner,David Warner,11,10,26,0,0,110
+AUS v SL,Perth Stadium,Perth,Australia,AUS,AJ Finch,Aaron Finch,31,42,89,0,1,73.8
+AUS v SL,Perth Stadium,Perth,Australia,AUS,MR Marsh,Mitchell Marsh,17,17,20,1,1,100
+AUS v SL,Perth Stadium,Perth,Australia,AUS,GJ Maxwell,Glenn Maxwell,23,12,21,2,2,191.66
+AUS v SL,Perth Stadium,Perth,Australia,AUS,MP Stoinis,Marcus Stoinis,59,18,22,4,6,327.77
+SA v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,RW Chakabva,Regis Chakabva,8,8,13,0,1,100
+SA v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,CR Ervine,Craig Ervine,2,6,11,0,0,33.33
+SA v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,SC Williams,Sean Williams,1,1,10,0,0,100
+SA v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,Sikandar Raza,Sikandar Raza,0,2,3,0,0,0
+SA v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,W Madhevere,Wessly Madhevere,35,18,37,4,1,194.44
+SA v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,M Shumba,Milton Shumba,18,20,32,2,0,90
+SA v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SA,Q de Kock,Quinton de Kock,47,18,26,8,1,261.11
+SA v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SA,T Bavuma,Temba Bavuma,2,2,26,0,0,100
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Najmul Hossain Shanto,Najmul Hossain Shanto,25,20,31,4,0,125
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Soumya Sarkar,Soumya Sarkar,14,14,24,2,0,100
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Liton Das,Litton Das,9,11,17,0,0,81.81
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Shakib Al Hasan,Shakib Al Hasan,7,9,14,0,0,77.77
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Afif Hossain,Afif Hossain,38,27,47,2,2,140.74
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Yasir Ali,Yasir Ali,3,5,9,0,0,60
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Nurul Hasan,Nurul Hasan,13,18,28,0,0,72.22
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Mosaddek Hossain,Mosaddek Hossain,20,12,12,2,1,166.66
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Taskin Ahmed,Taskin Ahmed,0,1,3,0,0,0
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,BAN,Hasan Mahmud,Hasan Mahmud,0,3,6,0,0,0
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,Vikramjit Singh,Vikramjit Singh,0,1,4,0,0,0
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,MP O'Dowd,Max O'Dowd,8,8,21,0,1,100
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,BFW de Leede,Bas de Leede,0,1,2,0,0,0
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,CN Ackermann,Colin Ackermann,62,48,77,6,2,129.16
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,TLW Cooper,Tom Cooper,0,0,2,0,0,-
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,SA Edwards,Scott Edwards,16,24,33,1,0,66.66
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,TJG Pringle,Tim Pringle,1,6,5,0,0,16.66
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,LV van Beek,Logan van Beek,2,5,9,0,0,40
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,Shariz Ahmad,Shariz Ahmad,9,8,9,1,0,112.5
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,FJ Klaassen,Fred Klaassen,7,6,20,0,0,116.66
+BAN v NED,"Bellerive Oval, Hobart",Hobart,Australia,NED,PA van Meekeren,Paul van Meekeren,24,14,16,3,1,171.42
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Mohammad Rizwan,Mohammad Rizwan,4,12,25,1,0,33.33
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Babar Azam,Babar Azam,0,1,10,0,0,0
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Shan Masood,Shan Masood,52,42,101,5,0,123.8
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Iftikhar Ahmed,Iftikhar Ahmed,51,34,43,2,4,150
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Shadab Khan,Shadab Khan,5,6,6,1,0,83.33
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Haider Ali,Haider Ali,2,4,6,0,0,50
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Mohammad Nawaz(3),Mohammad Nawaz,9,6,12,2,0,150
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Asif Ali,Asif Ali,2,3,6,0,0,66.66
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Shaheen Shah Afridi,Shaheen Shah Afridi,16,8,17,1,1,200
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,PAK,Haris Rauf,Haris Rauf,6,4,3,0,1,150
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,INDIA,KL Rahul,KL Rahul,4,8,13,0,0,50
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,INDIA,RG Sharma,Rohit Sharma,4,7,20,0,0,57.14
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,INDIA,V Kohli,Virat Kohli,82,53,98,6,4,154.71
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,INDIA,SA Yadav,Suryakumar Yadav,15,10,11,2,0,150
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,INDIA,AR Patel,Axar Patel,2,3,7,0,0,66.66
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,INDIA,HH Pandya,Hardik Pandya,40,37,61,1,2,108.1
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,INDIA,KD Karthik,Dinesh Karthik,1,2,10,0,0,50
+INDIA v PAK,Melbourne Cricket Ground,Melbourne,Australia,INDIA,R Ashwin,Ravichandran Ashwin,1,1,2,0,0,100
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,PR Stirling,Paul Stirling,34,25,45,4,1,136
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,A Balbirnie,Andy Balbirnie,1,5,7,0,0,20
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,LJ Tucker,Lorcan Tucker,10,11,20,1,0,90.9
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,HT Tector,Harry Tector,45,42,59,2,1,107.14
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,C Campher,Curtis Campher,2,4,6,0,0,50
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,GH Dockrell,George Dockrell,14,16,25,0,0,87.5
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,GJ Delany,Gareth Delany,9,6,10,1,0,150
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,MR Adair,Mark Adair,0,1,5,0,0,0
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,Simi Singh,Simi Singh,7,8,9,1,0,87.5
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,IRE,BJ McCarthy,Barry McCarthy,2,2,7,0,0,100
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,SL,BKG Mendis,Kusal Mendis,68,43,68,5,3,158.13
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,SL,DM de Silva,Dhananjaya de Silva,31,25,35,2,1,124
+IRE v SL,"Bellerive Oval, Hobart",Hobart,Australia,SL,KIC Asalanka,Charith Asalanka,31,22,33,2,0,140.9
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Hazratullah Zazai,Hazratullah Zazai,7,17,31,1,0,41.17
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Rahmanullah Gurbaz,Rahmanullah Gurbaz,10,9,13,0,1,111.11
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Ibrahim Zadran,Ibrahim Zadran,32,32,41,3,1,100
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Usman Ghani,Usman Ghani,30,30,60,3,0,100
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Najibullah Zadran,Najibullah Zadran,13,11,15,0,1,118.18
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Mohammad Nabi,Mohammad Nabi,3,5,7,0,0,60
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Azmatullah Omarzai,Azmatullah Omarzai,8,6,11,1,0,133.33
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Rashid Khan,Rashid Khan,0,1,2,0,0,0
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Mujeeb Ur Rahman,Mujeeb Ur Rahman,0,1,3,0,0,0
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Fareed Ahmad,Fareed Ahmad,2,4,7,0,0,50
+AFG v ENG,Perth Stadium,Perth,Australia,AFG,Fazalhaq Farooqi,Fazalhaq Farooqi,0,2,3,0,0,0
+AFG v ENG,Perth Stadium,Perth,Australia,ENG,JC Buttler,Jos Buttler,18,18,25,3,0,100
+AFG v ENG,Perth Stadium,Perth,Australia,ENG,AD Hales,Alex Hales,19,20,41,0,1,95
+AFG v ENG,Perth Stadium,Perth,Australia,ENG,DJ Malan,Dawid Malan,18,30,40,0,0,60
+AFG v ENG,Perth Stadium,Perth,Australia,ENG,BA Stokes,Ben Stokes,2,4,11,0,0,50
+AFG v ENG,Perth Stadium,Perth,Australia,ENG,LS Livingstone,Liam Livingstone,29,21,34,3,0,138.09
+AFG v ENG,Perth Stadium,Perth,Australia,ENG,HC Brook,Harry Brook,7,6,9,0,0,116.66
+AFG v ENG,Perth Stadium,Perth,Australia,ENG,MM Ali,Moeen Ali,8,10,13,0,0,80
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,NZ,FH Allen,Finn Allen,42,16,24,5,3,262.5
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,NZ,DP Conway,Devon Conway,92,58,106,7,2,158.62
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,NZ,KS Williamson,Kane Williamson,23,23,48,1,1,100
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,NZ,GD Phillips,Glenn Phillips,12,10,16,2,0,120
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,NZ,JDS Neesham,James Neesham,26,13,19,0,2,200
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,DA Warner,David Warner,5,6,7,1,0,83.33
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,AJ Finch,Aaron Finch,13,11,20,1,1,118.18
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,MR Marsh,Mitchell Marsh,16,12,17,2,1,133.33
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,GJ Maxwell,Glenn Maxwell,28,20,47,3,1,140
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,MP Stoinis,Marcus Stoinis,7,14,16,0,0,50
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,TH David,Tim David,11,8,12,0,1,137.5
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,MS Wade,Matthew Wade,2,4,10,0,0,50
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,PJ Cummins,Pat Cummins,21,18,27,2,1,116.66
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,MA Starc,Mitchell Starc,4,7,13,0,0,57.14
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,A Zampa,Adam Zampa,0,2,3,0,0,0
+AUS v NZ,Sydney Cricket Ground,Sydney,Australia,AUS,JR Hazlewood,Josh Hazlewood,1,1,6,0,0,100
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,HG Munsey,George Munsey,54,51,74,7,0,105.88
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MA Jones,Michael Jones,4,5,6,1,0,80
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MH Cross,Matthew Cross,1,7,15,0,0,14.28
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,RD Berrington,Richie Berrington,13,15,24,0,0,86.66
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,CS MacLeod,Calum MacLeod,25,26,46,1,0,96.15
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MA Leask,Michael Leask,12,9,11,2,0,133.33
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,CN Greaves,Chris Greaves,3,7,10,0,0,42.85
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,JH Davey,Josh Davey,4,3,3,0,0,133.33
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,RW Chakabva,Regis Chakabva,4,3,3,1,0,133.33
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,CR Ervine,Craig Ervine,58,54,79,6,0,107.4
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,W Madhevere,Wessly Madhevere,0,5,8,0,0,0
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,SC Williams,Sean Williams,7,12,28,0,0,58.33
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,Sikandar Raza,Sikandar Raza,40,23,34,3,2,173.91
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,M Shumba,Milton Shumba,11,11,16,0,0,100
+SCOT v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,RP Burl,Ryan Burl,9,5,7,1,0,180
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,KR Mayers,Kyle Mayers,1,5,12,0,0,20
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,J Charles,Johnson Charles,24,18,22,3,1,133.33
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,E Lewis,Evin Lewis,13,18,42,0,0,72.22
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,BA King,Brandon King,62,48,80,6,1,129.16
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,N Pooran,Nicholas Pooran,13,11,16,0,1,118.18
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,R Powell,Rovman Powell,6,8,12,1,0,75
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,OF Smith,Odean Smith,19,12,18,1,2,158.33
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,IRE,PR Stirling,Paul Stirling,66,48,79,6,2,137.5
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,IRE,A Balbirnie,Andy Balbirnie,37,23,34,3,3,160.86
+IRE v WI,"Bellerive Oval, Hobart",Hobart,Australia,IRE,LJ Tucker,Lorcan Tucker,45,35,46,2,2,128.57
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Muhammad Waseem,Muhammad Waseem,50,41,66,1,3,121.95
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,V Aravind,Vriitya Aravind,21,32,34,2,0,65.62
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,CP Rizwan,Chundangapoyil Rizwan,43,29,55,3,1,148.27
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,A Sharafu,Alishan Sharafu,4,4,10,0,0,100
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Basil Hameed,Basil Hameed,25,14,13,2,2,178.57
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,M van Lingen,Michael van Lingen,10,8,14,1,0,125
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,SJ Baard,Stephan Baard,4,6,9,1,0,66.66
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JN Loftie-Eaton,Jan Nicol Loftie-Eaton,1,6,17,0,0,16.66
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,MG Erasmus,Gerhard Erasmus,16,18,23,2,0,88.88
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JN Frylinck,Jan Frylinck,14,17,33,1,0,82.35
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JJ Smit,JJ Smit,3,3,3,0,0,100
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,D Wiese,David Wiese,55,36,65,3,3,152.77
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,ZE Green,Zane Green,2,3,3,0,0,66.66
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,R Trumpelmann,Ruben Trumpelmann,25,24,43,1,1,104.16
+NAM v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,BM Scholtz,Bernard Scholtz,1,1,-,0,0,100
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,P Nissanka,Pathum Nissanka,14,21,25,0,1,66.66
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,BKG Mendis,Kusal Mendis,79,44,94,5,5,179.54
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,DM de Silva,Dhananjaya de Silva,0,1,2,0,0,0
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,KIC Asalanka,Charith Asalanka,31,30,38,3,0,103.33
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,PBB Rajapaksa,Bhanuka Rajapaksa,19,13,18,2,0,146.15
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,MD Shanaka,Dasun Shanaka,8,5,9,0,1,160
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,PWH de Silva,Wanindu Hasaranga de Silva,5,4,8,0,0,125
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,C Karunaratne,Chamika Karunaratne,2,2,4,0,0,100
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,MP O'Dowd,Max O'Dowd,71,53,99,6,3,133.96
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,Vikramjit Singh,Vikramjit Singh,7,14,18,0,0,50
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,BFW de Leede,Bas de Leede,14,10,12,1,1,140
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,CN Ackermann,Colin Ackermann,0,1,4,0,0,0
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,TLW Cooper,Tom Cooper,16,19,23,2,0,84.21
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,SA Edwards,Scott Edwards,21,15,16,3,0,140
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,TJG Pringle,Tim Pringle,2,4,8,0,0,50
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,T van der Gugten,Timm van der Gugten,0,1,2,0,0,0
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,FJ Klaassen,Fred Klaassen,3,3,5,0,0,100
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,PA van Meekeren,Paul van Meekeren,0,0,4,0,0,-
+NED v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,RE van der Merwe,Roelof van der Merwe,0,1,14,0,0,0
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,KR Mayers,Kyle Mayers,13,12,17,2,0,108.33
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,J Charles,Johnson Charles,45,36,60,3,2,125
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,E Lewis,Evin Lewis,15,18,28,1,0,83.33
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,N Pooran,Nicholas Pooran,7,9,10,0,0,77.77
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,R Powell,Rovman Powell,28,21,40,1,2,133.33
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,SSJ Brooks,Shamarh Brooks,0,3,5,0,0,0
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,JO Holder,Jason Holder,4,3,3,0,0,133.33
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,AJ Hosein,Akeal Hosein,23,18,31,2,0,127.77
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,WI,OF Smith,Odean Smith,1,2,2,0,0,50
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,W Madhevere,Wessly Madhevere,27,19,37,3,1,142.1
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,RW Chakabva,Regis Chakabva,13,9,14,3,0,144.44
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,T Munyonga,Tony Munyonga,2,6,12,0,0,33.33
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,SC Williams,Sean Williams,1,2,4,0,0,50
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,Sikandar Raza,Sikandar Raza,14,8,12,1,1,175
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,M Shumba,Milton Shumba,2,9,20,0,0,22.22
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,RP Burl,Ryan Burl,17,19,30,3,0,89.47
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,LM Jongwe,Luke Jongwe,29,22,31,3,1,131.81
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,R Ngarava,Richard Ngarava,2,6,11,0,0,33.33
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,TL Chatara,Tendai Chatara,3,8,12,0,0,37.5
+WI v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,B Muzarabani,Blessing Muzarabani,1,4,4,0,0,25
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,HG Munsey,George Munsey,1,2,9,0,0,50
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MA Jones,Michael Jones,86,55,95,6,4,156.36
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MH Cross,Matthew Cross,28,21,33,5,0,133.33
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,RD Berrington,Richie Berrington,37,27,39,3,1,137.03
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MA Leask,Michael Leask,17,13,19,2,0,130.76
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,CS MacLeod,Calum MacLeod,0,3,6,0,0,0
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,IRE,PR Stirling,Paul Stirling,8,10,22,1,0,80
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,IRE,A Balbirnie,Andy Balbirnie,14,12,15,2,0,116.66
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,IRE,LJ Tucker,Lorcan Tucker,20,17,28,2,0,117.64
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,IRE,HT Tector,Harry Tector,14,16,23,1,0,87.5
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,IRE,C Campher,Curtis Campher,72,32,48,7,2,225
+IRE v SCOT,"Bellerive Oval, Hobart",Hobart,Australia,IRE,GH Dockrell,George Dockrell,39,27,42,4,1,144.44
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,P Nissanka,Pathum Nissanka,74,60,105,6,2,123.33
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,BKG Mendis,Kusal Mendis,18,13,24,2,0,138.46
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,DM de Silva,Dhananjaya de Silva,33,21,30,3,1,157.14
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,PBB Rajapaksa,Bhanuka Rajapaksa,5,8,19,0,0,62.5
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,KIC Asalanka,Charith Asalanka,0,1,2,0,0,0
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,MD Shanaka,Dasun Shanaka,0,1,2,0,0,0
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,PWH de Silva,Wanindu Hasaranga de Silva,2,3,3,0,0,66.66
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,C Karunaratne,Chamika Karunaratne,8,11,22,1,0,72.72
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,Pramod Madushan,Pramod Madushan,1,1,4,0,0,100
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,PVD Chameera,Dushmantha Chameera,1,1,2,0,0,100
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Muhammad Waseem,Muhammad Waseem,2,4,13,0,0,50
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Chirag Suri,Chirag Suri,14,19,31,3,0,73.68
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Aryan Lakra,Aryan Lakra,1,3,4,0,0,33.33
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,CP Rizwan,Chundangapoyil Rizwan,1,3,8,0,0,33.33
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,V Aravind,Vriitya Aravind,9,18,26,1,0,50
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Basil Hameed,Basil Hameed,2,6,14,0,0,33.33
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Aayan Afzal Khan,Aayan Afzal Khan,19,21,33,1,0,90.47
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Kashif Daud,Kashif Daud,0,4,8,0,0,0
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,KP Meiyappan,Karthik Meiyappan,4,8,11,0,0,50
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Junaid Siddique,Junaid Siddique,18,16,22,1,1,112.5
+SL v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Zahoor Khan,Zahoor Khan,1,1,15,0,0,100
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,M van Lingen,Michael van Lingen,20,19,20,3,0,105.26
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,D la Cock,Divan la Cock,0,2,5,0,0,0
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,SJ Baard,Stephan Baard,19,22,46,0,0,86.36
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JN Loftie-Eaton,Jan Nicol Loftie-Eaton,0,2,3,0,0,0
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JN Frylinck,Jan Frylinck,43,48,63,1,1,89.58
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,MG Erasmus,Gerhard Erasmus,16,18,37,0,0,88.88
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,D Wiese,David Wiese,11,5,8,1,0,220
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JJ Smit,JJ Smit,5,4,6,1,0,125
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,MP O'Dowd,Max O'Dowd,35,35,59,1,1,100
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,Vikramjit Singh,Vikramjit Singh,39,31,37,3,2,125.8
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,BFW de Leede,Bas de Leede,30,30,51,2,0,100
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,TLW Cooper,Tom Cooper,6,6,7,1,0,100
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,CN Ackermann,Colin Ackermann,0,2,2,0,0,0
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,SA Edwards,Scott Edwards,1,5,5,0,0,20
+NAM v NED,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,TJG Pringle,Tim Pringle,8,9,14,0,0,88.88
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,RW Chakabva,Regis Chakabva,0,2,3,0,0,0
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,CR Ervine,Craig Ervine,9,12,28,1,0,75
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,W Madhevere,Wessly Madhevere,22,19,22,4,0,115.78
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,SC Williams,Sean Williams,12,11,24,0,1,109.09
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,Sikandar Raza,Sikandar Raza,82,48,72,5,5,170.83
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,M Shumba,Milton Shumba,16,14,26,1,0,114.28
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,RP Burl,Ryan Burl,1,4,9,0,0,25
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,ZIM,LM Jongwe,Luke Jongwe,20,10,14,3,0,200
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,PR Stirling,Paul Stirling,0,2,3,0,0,0
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,A Balbirnie,Andy Balbirnie,3,4,20,0,0,75
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,LJ Tucker,Lorcan Tucker,11,11,10,2,0,100
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,HT Tector,Harry Tector,1,4,5,0,0,25
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,C Campher,Curtis Campher,27,22,41,1,0,122.72
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,GH Dockrell,George Dockrell,24,20,25,3,0,120
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,GJ Delany,Gareth Delany,24,20,23,1,1,120
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,MR Adair,Mark Adair,9,10,18,0,1,90
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,Simi Singh,Simi Singh,0,1,1,0,0,0
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,BJ McCarthy,Barry McCarthy,22,16,23,1,2,137.5
+IRE v ZIM,"Bellerive Oval, Hobart",Hobart,Australia,IRE,JB Little,Josh Little,7,11,17,1,0,63.63
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,HG Munsey,George Munsey,66,53,106,9,0,124.52
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MA Jones,Michael Jones,20,17,36,3,0,117.64
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MH Cross,Matthew Cross,3,5,10,0,0,60
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,RD Berrington,Richie Berrington,16,14,21,0,1,114.28
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,CS MacLeod,Calum MacLeod,23,14,15,4,0,164.28
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,MA Leask,Michael Leask,4,6,8,0,0,66.66
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,SCOT,CN Greaves,Chris Greaves,16,11,19,2,0,145.45
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,KR Mayers,Kyle Mayers,20,13,12,3,1,153.84
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,E Lewis,Evin Lewis,14,13,30,1,1,107.69
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,BA King,Brandon King,17,15,24,3,0,113.33
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,N Pooran,Nicholas Pooran,5,9,14,0,0,55.55
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,SSJ Brooks,Shamarh Brooks,4,9,24,0,0,44.44
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,R Powell,Rovman Powell,5,6,12,0,0,83.33
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,JO Holder,Jason Holder,38,33,37,4,1,115.15
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,AJ Hosein,Akeal Hosein,1,1,4,0,0,100
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,AS Joseph,Alzarri Joseph,0,1,4,0,0,0
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,OF Smith,Odean Smith,5,8,14,0,0,62.5
+SCOT v WI,"Bellerive Oval, Hobart",Hobart,Australia,WI,OC McCoy,Obed McCoy,2,3,10,0,0,66.66
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Chirag Suri,Chirag Suri,12,20,28,1,0,60
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Muhammad Waseem,Muhammad Waseem,41,47,71,1,2,87.23
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Kashif Daud,Kashif Daud,15,14,19,0,1,107.14
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,V Aravind,Vriitya Aravind,18,21,37,0,0,85.71
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Zawar Farid,Zawar Farid,2,4,8,0,0,50
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Basil Hameed,Basil Hameed,4,4,7,1,0,100
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,CP Rizwan,Chundangapoyil Rizwan,1,2,7,0,0,50
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Aayan Afzal Khan,Aayan Afzal Khan,5,7,8,0,0,71.42
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,KP Meiyappan,Karthik Meiyappan,0,0,4,0,0,-
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,UAE,Junaid Siddique,Junaid Siddique,0,1,1,0,0,0
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,Vikramjit Singh,Vikramjit Singh,10,7,8,2,0,142.85
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,MP O'Dowd,Max O'Dowd,23,18,25,3,1,127.77
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,BFW de Leede,Bas de Leede,14,18,37,1,0,77.77
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,CN Ackermann,Colin Ackermann,17,19,33,1,0,89.47
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,TLW Cooper,Tom Cooper,8,16,22,0,0,50
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,SA Edwards,Scott Edwards,16,19,42,0,0,84.21
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,RE van der Merwe,Roelof van der Merwe,0,2,4,0,0,0
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,TJG Pringle,Tim Pringle,15,16,26,0,0,93.75
+NED v UAE,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NED,LV van Beek,Logan van Beek,4,4,7,0,0,100
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,M van Lingen,Michael van Lingen,3,6,7,0,0,50
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,D la Cock,Divan la Cock,9,9,15,1,0,100
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JN Loftie-Eaton,Jan Nicol Loftie-Eaton,20,12,18,1,2,166.66
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,SJ Baard,Stephan Baard,26,24,49,2,0,108.33
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,MG Erasmus,Gerhard Erasmus,20,24,30,0,0,83.33
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JN Frylinck,Jan Frylinck,44,28,44,4,0,157.14
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,D Wiese,David Wiese,0,1,4,0,0,0
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,NAM,JJ Smit,JJ Smit,31,16,29,2,2,193.75
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,P Nissanka,Pathum Nissanka,9,10,16,1,0,90
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,BKG Mendis,Kusal Mendis,6,6,8,0,0,100
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,DM de Silva,Dhananjaya de Silva,12,11,25,1,0,109.09
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,MD Gunathilaka,Danushka Gunathilaka,0,1,2,0,0,0
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,PBB Rajapaksa,Bhanuka Rajapaksa,20,21,39,2,0,95.23
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,MD Shanaka,Dasun Shanaka,29,23,37,2,1,126.08
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,PWH de Silva,Wanindu Hasaranga de Silva,4,8,9,0,0,50
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,C Karunaratne,Chamika Karunaratne,5,8,15,0,0,62.5
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,Pramod Madushan,Pramod Madushan,0,0,4,0,0,-
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,PVD Chameera,Dushmantha Chameera,8,15,20,0,0,53.33
+NAM v SL,"Simonds Stadium, South Geelong, Victoria",Geelong,Australia,SL,M Theekshana,Maheesh Theekshana,11,11,14,0,1,100
